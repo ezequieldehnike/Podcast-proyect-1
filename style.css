@@ -44,6 +44,10 @@ header {
     transition: all 500ms ease;
 }
 
+#linea-1 {
+    top: 1px;
+}
+
 #linea-2 {
     top: 5px;
 }
@@ -244,7 +248,7 @@ header {
 .parrafo-donde {
     padding: 20px 20px 11px;
     font-family: 'IBM Plex Mono';
-    font-size: 16px;
+    font-size: 15px;
     color: #060A24;
 }
 
