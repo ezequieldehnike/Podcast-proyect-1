@@ -479,7 +479,6 @@ footer {
 @media screen and (min-width: 901px) {
     header {
         position: relative;
-        top: 20px;
         height: 70px;
     }
     .logo-taman {
@@ -488,6 +487,7 @@ footer {
     }
     .logo {
         left: 105px;
+        top: 18px;
     }
     .menu-hamburguesa {
         display: none;
@@ -496,6 +496,7 @@ footer {
         display: block;
         position: absolute;
         right: 40px;
+        top: 22px;
         font-family: 'IBM Plex Mono';
     }
     ul {
